@@ -1,0 +1,27 @@
+{
+  "name": "food_practice_6",
+  "version": "1.0.0",
+  "description": "test",
+  
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmjayakumar/food_practice_6.git"
+  },
+  "keywords": [
+    "git"
+  ],
+  "author": "kmj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kmjayakumar/food_practice_6/issues"
+  },
+  "homepage": "https://github.com/kmjayakumar/food_practice_6#readme",
+  "devDependencies": {
+    "parcel": "^2.16.1"
+  }
+}
